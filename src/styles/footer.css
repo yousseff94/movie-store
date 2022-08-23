@@ -1,0 +1,15 @@
+.navbarre-footer{
+    justify-content: space-around;
+    list-style: none;
+    background-color: black;
+    padding: 4% 0;
+}
+
+.navbarre-footer li a{
+text-decoration: none; 
+color:white;
+font-size: 2em;
+}
+.icone{
+    font-size:2em
+}

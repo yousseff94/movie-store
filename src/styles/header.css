@@ -1,0 +1,25 @@
+.navbarre{
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    background-color: black;
+    padding: 4% 0;
+}
+
+.navbarre li a{
+
+text-decoration: none; 
+color:white;
+font-size: 2em;
+
+}
+.navv{
+    display: flex;
+
+}
+.navbarre img {
+    height: 150px;
+    width:150px;
+    margin-bottom: 1%;
+    border-radius: 20%;
+}
